@@ -100,7 +100,7 @@
 
 |Win 快捷键|Mac 快捷键|介绍|
 |:---------|:---------|:---------|
-|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>|<kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>L</kbd>|格式化代码，可以对当前文件和整个包目录使用|
+|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>|<kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>L</kbd>|格式化代码，可以对当前文件和整个包目录使用（有些文件格式化是有特殊要求的，比如 SQL 文件必须设置方言才可被格式化）|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>|<kbd>Control</kbd> + <kbd>Option</kbd> + <kbd>O</kbd>|优化导入的类，可以对当前文件和整个包目录使用|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>|<kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>T</kbd>|对选中的代码弹出环绕选项弹出层|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd>|<kbd>Command</kbd> + <kbd>逗号</kbd>|打开 IntelliJ IDEA 系统设置|
@@ -122,6 +122,7 @@
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>|<kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>|对当前类生成单元测试类，如果已经存在的单元测试类则可以进行选择|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>|<kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>|复制当前文件磁盘路径到剪贴板|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>|<kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>|跳转到类型声明处|
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>|<kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>|显示层次结构|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>/</kbd>|<kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>/</kbd>|代码块注释|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>\[</kbd>|<kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>\[</kbd>|选中从光标所在位置到它的顶部中括号位置|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>\]</kbd>|<kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>\]</kbd>|选中从光标所在位置到它的底部中括号位置|
